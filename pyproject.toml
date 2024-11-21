@@ -7,11 +7,12 @@ readme = "README.md"
 package-mode = false
 
 [tool.poetry.dependencies]
-python = "^3.9"
+python = "^3.12"
 pandas = "^2.2.3"
 beautifulsoup4 = "^4.12.3"
 requests = "^2.32.3"
 tqdm = "^4.67.0"
+orb = {git = "https://github.com/Tom3man/orb-weaver.git"}
 
 
 [build-system]
