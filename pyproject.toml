@@ -12,6 +12,7 @@ pandas = "^2.2.3"
 beautifulsoup4 = "^4.12.3"
 requests = "^2.32.3"
 tqdm = "^4.67.0"
+ipykernel = "^6.29.5"
 
 
 [build-system]
